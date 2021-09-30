@@ -14,5 +14,5 @@
   Now run 1_unpack.bat
    Extracted files drops here: 2_unpacked
 
-# If you have confusions, need help or publish it elsewhere, make sure you give proper credits with my name and contact me in https://www.guilded.gg/r/zzORL9m25l?i=dzOJyvbm for more details.
+- If you have confusions, need help or publish it elsewhere, make sure you give proper credits with my name and contact me in https://www.guilded.gg/r/zzORL9m25l?i=dzOJyvbm for more details.
 
