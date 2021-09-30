@@ -1,8 +1,6 @@
-    ***2021.09.22***
+# DVPL Converter Version 3.0.0 By RifsxD ***2021.09.30***
 
-# DVPL Converter Version 3.0.0 By RifsxD
-
-# $PLACE-HOLDER
+# Witten in Python 2.7.15
 
 - Convertion
 
@@ -16,5 +14,5 @@
   Now run 1_unpack.bat
    Extracted files drops here: 2_unpacked
 
-# If you have confusions, need help or publish it elsewhere, make sure you give proper credits with my name and contact me in $PLACE-HOLDER for more details.
+# If you have confusions, need help or publish it elsewhere, make sure you give proper credits with my name and contact me in https://www.guilded.gg/r/zzORL9m25l?i=dzOJyvbm for more details.
 
