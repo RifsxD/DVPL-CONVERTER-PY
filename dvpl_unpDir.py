@@ -32,7 +32,7 @@ for fileIn in filesIn:
         f.close()
 
 if filesIn == []:
-    print('!!! No files to pack !!!')
+    print('!!! No files to unpack !!!')
 else:
     print('                  ')
     print(lines.ljust(40, '-'), results.ljust(40, '-'))
